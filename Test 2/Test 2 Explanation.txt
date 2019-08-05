@@ -1,0 +1,6 @@
+Angle From The Microphone: 60 degrees
+
+Number of Microphones(mics): 2 mics
+
+Distance Between The Mics: 24 CM
+
